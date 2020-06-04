@@ -11,3 +11,6 @@
 	path = avoidance
 	url = https://github.com/PX4/avoidance.git
 	branch = stable
+[submodule "realsim_nav"]
+	path = realsim_nav
+	url = https://github.com/reyanshsolis/realsim_nav.git
