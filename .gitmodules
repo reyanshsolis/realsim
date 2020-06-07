@@ -14,3 +14,7 @@
 [submodule "realsim_nav"]
 	path = realsim_nav
 	url = https://github.com/reyanshsolis/realsim_nav.git
+[submodule "octomap_mapping"]
+	path = octomap_mapping
+	url = https://github.com/OctoMap/octomap_mapping
+	branch = kinetic-devel
